@@ -4,6 +4,8 @@
 This project simulates a **KYC risk scoring model** integrated with an **AML risk level analysis dashboard**. It classifies customer profiles into High, Medium, and Low risk categories based on their demographic, occupational, and adverse screening attributes to support compliance teams in proactive risk mitigation.
 
 ---
+![Screenshot 2025-06-27 035438](https://github.com/user-attachments/assets/09d3f882-16bc-43ce-9442-260ee275efda)
+
 
 ## 🎯 **Objectives**
 - Develop an automated **risk scoring formula** for customer risk classification.
